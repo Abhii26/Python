@@ -6,7 +6,7 @@ def ab(x):
 ab("abhi")
 
 stud_one = "Rohan" 
-stud_two = "sohan"
+stud_two = "Sohan"
  
 # name = 2 + 3j
 

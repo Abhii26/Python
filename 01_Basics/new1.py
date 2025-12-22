@@ -2,6 +2,6 @@ from sample import ab
 
 ab("Honey Singh")
 
-x= "chai"
-y = "code"
-print(x+y)
+a = "chai"
+b = "code"
+print(a+b)
